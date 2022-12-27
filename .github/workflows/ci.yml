@@ -9,4 +9,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: php-actions/composer@v6
-      - uses: marcelo-lipienski/infection-phpunit@v1
+      - uses: marcelo-lipienski/infection-phpunit@v2
